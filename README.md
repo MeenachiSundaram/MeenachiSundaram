@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![MeenachiSundaram's GitHub stats](https://github-readme-stats-meenachisundaram.vercel.app/api?username=meenachisundaram)](https://github.com/meenachisundaram/github-readme-stats)
+
+
+
 <!--
 **MeenachiSundaram/MeenachiSundaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
